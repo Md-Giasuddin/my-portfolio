@@ -1,0 +1,199 @@
+/* Medium Layout: 1280px. */
+@media only screen and (min-width: 992px) and (max-width: 1200px) { 
+  .logo {
+    height: 100px;
+    width: 100px;
+    line-height: 100px;
+    top: 20px;
+}
+    .banner_overly {
+    height: 180px;
+}
+    .banner_text h1{
+        font-size: 40px;
+    }
+    .slick-dots {
+    top: -60px;
+}
+    .purchase {
+    padding: 10px;
+    border-radius: 5px;
+    bottom: 110px;
+    font-size: 18px;
+}
+    .about_description h2 {
+    margin-top: 0px;
+}
+    .service_text{
+        padding: 45px 20px;
+    } 
+    .service_icon_two i, .service_icon i{
+        padding: 25px;
+    }
+    .service_list ul li{
+        margin-left: 5px;
+    }
+    .service_list ul li a{
+        font-size: 16px;
+    }
+    #portfolio >.row> .simplefilter {
+    margin-left: 200px;
+    margin-bottom: 60px;
+}
+    .cap{
+        margin-left: 25px;
+    }
+    #triangle-down {
+    border-left: 110px solid transparent;
+    border-right: 124px solid transparent;
+    border-top: 55px solid #237C13;
+    left: 0px;
+}
+    
+    
+    
+    
+    
+}
+/* Tablet Layout: 768px. */
+@media only screen and (min-width: 768px) and (max-width: 991px) { 
+    .banner_text h1{
+        font-size: 40px;
+    }
+    .purchase {
+    padding: 10px;
+    border-radius: 5px;
+    bottom: 100px;
+    font-size: 18px;
+    left: 50%;
+    transform: translateX(50%);
+}
+    .about_description h2 {
+    margin-top: 0px;
+    font-size: 25px;
+    }
+    .about_description p {
+    font-size: 14px;
+    margin-top: 16px;
+    padding: 0px 20px;
+    text-align: left;
+}
+    .sign p{
+        font-size: 20px;
+        float: right;
+    }
+    .service_text {
+    padding: 20px;
+}
+   .service_icon {
+    padding: 35px 0;
+} 
+    .service_icon_two i, .service_icon i {
+    padding: 20px;
+    font-size: 35px;
+}
+    .service_text h2{
+        font-size: 25px;
+    }
+    .service_list ul li a {
+    font-size: 12px;
+}
+   #portfolio >.container > .row> .simplefilter {
+    margin-left: 80px;
+    margin-bottom: 60px;
+} 
+    .portfolio_head{
+        margin-bottom: 20px;
+    }
+    #triangle-down {
+    border-left: 95px solid transparent;
+    border-right: 86px solid transparent;
+}
+    .package_1 .product_heading h2 {
+    font-size: 20px;
+    padding-top: 11px;
+}
+    
+    
+ 
+    
+}
+/* Mobile Layout: 320px. */
+@media only screen and (max-width: 767px) { 
+    .banner_text h1{
+        font-size: 40px;
+    }
+    .purchase {
+    padding: 10px;
+    border-radius: 5px;
+    bottom: 100px;
+    font-size: 18px;
+    left: 50%;
+    transform: translateX(255%);
+}
+    .about_description h2 {
+    margin-top: 0px;
+    font-size: 25px;
+    }
+    .about_description p {
+    font-size: 14px;
+    margin-top: 16px;
+    padding: 0px 20px;
+    text-align: left;
+}
+    .sign p{
+        font-size: 20px;
+        float: right;
+    }
+    #service{
+        padding: 20px;
+    }
+    #portfolio >.container > .row> .simplefilter {
+    margin-left: 30px;
+    margin-bottom: 50px;
+    font-size: 11px;
+}
+    .all_section {
+    margin-bottom: 25px;
+}
+    .product_description {
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+    .fetures_list,.package_2{
+        margin-left: 57px;
+    }
+    .counter-up>p {
+    font-size: 20px;
+}
+    .counterup-text span {
+    font-size: 30px;
+}
+    .skill_main{
+        margin-bottom: 30px;
+    }
+    .test_head{
+        margin-bottom: 30px;
+    }
+    #testimonial_head{
+        margin-bottom: 20px;
+    }
+    
+    
+    
+    
+    
+    
+    
+    
+    
+}
+/* Wide Mobile Layout: 480px. */
+@media only screen and (min-width: 480px) and (max-width: 767px) { 
+    
+    
+    
+    
+    
+    
+}
